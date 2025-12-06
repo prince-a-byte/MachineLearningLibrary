@@ -3,7 +3,7 @@ This is a machine learning Library completely made from scratch without using an
 
 
 # Day:- 01
-> I learned about som of the Utilities...
+> I learned about some of the Utilities of machine learning...
 
 1. Mean Squared Error
 2. R2 Score
